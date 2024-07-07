@@ -1,5 +1,6 @@
 column post clean_dignosis
 
+bpd : trouble borderline
 ocd : trouble obsessionnel compulsif
 adhd : trouble de l'attention avec hyperactivité
 pmdd : trouble pré-menstruel
@@ -8,15 +9,7 @@ ptsd : syndrome post traumatique
 udd : unspecified dissociative disorder
 social : social phobia/anxiety
 asd : trouble du spectre autistique
+ddd : depersonalization-derealization disorder
+bdd : trouble dysmorphique
+long st : Long_QT_syndrome
 
-bipolar 1 & 2 -> bipolar
-cptsd -> ptsd
-
-ligne à supprimer :
-100
-163
-
-321 -> split ' '
-344 -> remove last comment
-577 -> remove general, presentation)
-722 -> remove last value
